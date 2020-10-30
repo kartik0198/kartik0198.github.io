@@ -215,6 +215,15 @@ main .icon-list > li.github:hover {
 	background: #767676;
 }
 
+main .icon-list > li.medium {
+	border:none;
+	color: #333;
+}
+
+main .icon-list > li.medium:hover {
+	background: #767676;
+}
+
 main .icon-list > li.youtube {
 	border-color: #c4302b;
 	color: #c4302b;
